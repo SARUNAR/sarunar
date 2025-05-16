@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Anoop Palavai
+# 👋 Hi there! I'm Anoop
 
 🚀 **Lead DevOps Engineer | Certified Azure & AWS Cloud Architect | Site Reliability Specialist**  
 📍 Fort Worth, Texas | 7+ Years in DevOps, Cloud, Infrastructure, Automation & Monitoring
